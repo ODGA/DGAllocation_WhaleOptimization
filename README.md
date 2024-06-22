@@ -63,6 +63,6 @@ Where:
 - _[No.]Bus_ could be 5 or 33.
 - _Hour[No.]_ could be 1, 3, 24, or 96.
 
-# Additional Notes
+### Additional Notes
 
 For longer simulations, it is safe to stop the simulation. The main files allow for the continuation of the simulations. The results for each run are saved in the matrix file.
