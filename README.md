@@ -1,4 +1,4 @@
-# Distributed Generation Optimization in IEEE 33-Bus Radial Distribution System
+# Optimal Allocation of Multiple Distributed Generation in IEEE 33-Bus Radial Distribution System
 ## Overview
 This project focuses on optimizing the location and size/dispatch of multiple distributed generation (DG) units in the IEEE 33-Bus Radial Distribution System. The optimization is performed using Whale Optimization Algorithm (WOA) and Enhanced Whale Optimization Algorithm (E-WOA).
 ## Features
