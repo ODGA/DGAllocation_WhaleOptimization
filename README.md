@@ -60,8 +60,8 @@ _[ALGORITHM]_Results_[No.]Bus_Hour[No.].mat_
 Where:
 
 - _[ALGORITHM]_ could be WOA or EWOA.
-- _[No.]Bus_ could be 5 or 33.
-- _Hour[No.]_ could be 1, 3, 24, or 96.
+- _[No.]_ Bus could be 5 or 33.
+- Hour _[No.]_ could be 1, 3, 24, or 96.
 
 ### Additional Notes
 
