@@ -11,7 +11,7 @@ This project focuses on optimizing the location and size/dispatch of multiple di
 ### Prerequisites
 - MATLAB R2024a or earlier.
 ### Hardware Used
-- Intel i5 8100 or equivalent processor.
+- Intel i3 8100.
 - 8GB RAM.
 ### Installation
 1. Download the repository from GitHub.
