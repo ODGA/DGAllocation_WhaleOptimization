@@ -1,6 +1,10 @@
 # Optimal Allocation of Multiple Distributed Generation in IEEE 33-Bus Radial Distribution System
 ## Overview
 This project focuses on optimizing the location and size/dispatch of multiple distributed generation (DG) units in the IEEE 33-Bus Radial Distribution System. The optimization is performed using Whale Optimization Algorithm (WOA) and Enhanced Whale Optimization Algorithm (E-WOA).
+
+<image src="https://github.com/ODGA/DGAllocation_WhaleOptimization/assets/42317843/43400151-2e58-4fec-b8e7-fce55cbab384" width=40% height=40%> <image src="https://github.com/ODGA/DGAllocation_WhaleOptimization/assets/42317843/61d32ebb-aab3-4e7c-aa6d-0ea36c5e21ad" width=41% height=41%>
+
+
 ## Features
 - Optimization of DG location and size/dispatch.
 - Supports IEEE 33-Bus and 5-Bus Radial Distribution Systems.
@@ -21,6 +25,9 @@ This project focuses on optimizing the location and size/dispatch of multiple di
 
 **Whale Optimization Algorithm (WOA)**
 
+<image src="https://github.com/ODGA/DGAllocation_WhaleOptimization/assets/42317843/034c8776-40e3-4df8-9216-c2e522f92f2c" width=30% height=30%>
+
+
 To run the simulation using WOA:
 
 1. Open MATLAB.
@@ -28,6 +35,8 @@ To run the simulation using WOA:
 3. Run the _Run_WOA.m_ file.
    
 **Enhanced Whale Optimization Algorithm (E-WOA)**
+
+<image src="https://github.com/ODGA/DGAllocation_WhaleOptimization/assets/42317843/4dba5a99-0233-4e55-adc4-026b899b8ef5" width=30% height=30%>
 
 To run the simulation using E-WOA:
 
